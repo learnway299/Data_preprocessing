@@ -404,4 +404,4 @@ $$
 从各项指标看，两种分类器对本数据集分类效果都很好。从混淆矩阵的结果可以看出逻辑回归模型比朴素贝叶斯模型效果更好一些。
 <br>**<em>by learyuan</em><br>**
 **<em>April 2021</em><br>**
-[myblog_url](https://juejin.cn/user/2796775322683950)
+[myblog_url](https://juejin.cn/post/6953084858868432910/)
