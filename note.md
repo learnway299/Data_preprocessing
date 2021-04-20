@@ -345,7 +345,7 @@ $$
 Accuracy = {\frac {TP+FN}{TP+FN+FP+FN}}
 $$
 
-准确率和召回率整体上是负相关<br>
+准确率和召回率整体上是负相关：<br>
 因此用F1-measure能更全面地评估分类整体效果：
 $$
 F1-measure = {\frac {2 * Pression*Recall}{Pression+Recall}}
